@@ -1,0 +1,25 @@
+
+
+.botao-banner-principal{
+    width: 100px;
+    height: 40px;
+    border-radius: 30px;
+    background-color: #081b30;
+    color: white;
+}
+
+.botao-banner-principal:hover{
+
+    background-color: white;
+    color: #081b30;
+
+}
+
+.card-produto:hover{
+    box-shadow: 20px 20px;
+}
+
+.card-produto-destaque{
+    box-shadow: 50px 40px;
+
+}
